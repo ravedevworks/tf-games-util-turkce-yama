@@ -1,0 +1,15 @@
+C:\Projelerim\TF-Games-Util\TFGames_Util_4.0\bin\Release\TFGames_Util_4.0.exe.config
+C:\Projelerim\TF-Games-Util\TFGames_Util_4.0\bin\Release\TFGames_Util_4.0.exe
+C:\Projelerim\TF-Games-Util\TFGames_Util_4.0\bin\Release\TFGames_Util_4.0.pdb
+C:\Projelerim\TF-Games-Util\TFGames_Util_4.0\obj\Release\TFGames_Util_4.0.csprojResolveAssemblyReference.cache
+C:\Projelerim\TF-Games-Util\TFGames_Util_4.0\obj\Release\TFGames_Util_4._0.Properties.Resources.resources
+C:\Projelerim\TF-Games-Util\TFGames_Util_4.0\obj\Release\TFGames_Util_4.0.csproj.GenerateResource.Cache
+C:\Projelerim\TF-Games-Util\TFGames_Util_4.0\obj\Release\TFGames_Util_4.0.exe
+C:\Projelerim\TF-Games-Util\TFGames_Util_4.0\obj\Release\TFGames_Util_4.0.pdb
+C:\Projeler\TF-Games-Util\TFGames_Util_4.0\obj\Release\TFGames_Util_4._0.Properties.Resources.resources
+C:\Projeler\TF-Games-Util\TFGames_Util_4.0\obj\Release\TFGames_Util_4.0.csproj.GenerateResource.Cache
+C:\Projeler\TF-Games-Util\TFGames_Util_4.0\bin\Release\TFGames_Util_4.0.exe.config
+C:\Projeler\TF-Games-Util\TFGames_Util_4.0\bin\Release\TFGames_Util_4.0.exe
+C:\Projeler\TF-Games-Util\TFGames_Util_4.0\bin\Release\TFGames_Util_4.0.pdb
+C:\Projeler\TF-Games-Util\TFGames_Util_4.0\obj\Release\TFGames_Util_4.0.exe
+C:\Projeler\TF-Games-Util\TFGames_Util_4.0\obj\Release\TFGames_Util_4.0.pdb
